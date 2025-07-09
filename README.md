@@ -1,2 +1,0 @@
-# Snack
-Automaten Füllung
